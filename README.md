@@ -212,13 +212,12 @@ Welcome to the Friends Trivia Quiz website. This platform is designed for fans o
         [Build a Quiz App](https://www.youtube.com/watch?v=rFWbAj40JrQ&list=PLB6wlEeCDJ5Yyh6P2N6Q_9JijB6v4UejF)
 
     - ### Learning and Support Resources
-    
+    - 
         - [W3Schools](https://www.w3schools.com/) - For learning and practice.
-        - [YouTube](https://www.youtube.com/) - To source a deeper understanding of concepts, mainly Flexbox.
+        - [YouTube](https://www.youtube.com/) - To source a deeper understanding of concepts.
         - [Code Institute](https://codeinstitute.net/) - To structure and support learnings.
         - [ChatGPT](https://openai.com/chatgpt) - For quick information support when needed.
-        - [Perplexity AI](https://www.perplexity.ai/) - For a focused source of information in one place.
-        - [Iris](https://www.iristech.co/) - To validate information given on the website TimeMaster.co. 
+        - [Perplexity AI](https://www.perplexity.ai/) - For a focused source of information in one place. 
         - [Study Music, Concentration, Focus](https://www.youtube.com/results?search_query=study+music+concentration+focus) - To keep me calm during work.
 
 
@@ -227,5 +226,4 @@ Welcome to the Friends Trivia Quiz website. This platform is designed for fans o
 
     Amy Richardson- for constant support as well as great advices throughout the process; 
     Femi-  my mentor who utilised our meetings very well, giving constructive feedback and excellent practise. 
-    Valentyn_5P- for great team support;
-    Huge Thanks to the community for great support and helping me feel like i am not here alone. 
+    Huge Thanks to the tutor suppoport and community. It was greathelp to feel like I am not here alone. 
